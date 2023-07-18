@@ -1,0 +1,15 @@
+C:\Users\nixsu\Downloads\New folder\ST0126\obj\Debug\net6.0-windows\ST0126.csproj.AssemblyReference.cache
+C:\Users\nixsu\Downloads\New folder\ST0126\obj\Debug\net6.0-windows\ST0126.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nixsu\Downloads\New folder\ST0126\obj\Debug\net6.0-windows\ST0126.AssemblyInfoInputs.cache
+C:\Users\nixsu\Downloads\New folder\ST0126\obj\Debug\net6.0-windows\ST0126.AssemblyInfo.cs
+C:\Users\nixsu\Downloads\New folder\ST0126\obj\Debug\net6.0-windows\ST0126.csproj.CoreCompileInputs.cache
+C:\Users\nixsu\Downloads\New folder\ST0126\bin\Debug\net6.0-windows\ST0126.exe
+C:\Users\nixsu\Downloads\New folder\ST0126\bin\Debug\net6.0-windows\ST0126.deps.json
+C:\Users\nixsu\Downloads\New folder\ST0126\bin\Debug\net6.0-windows\ST0126.runtimeconfig.json
+C:\Users\nixsu\Downloads\New folder\ST0126\bin\Debug\net6.0-windows\ST0126.dll
+C:\Users\nixsu\Downloads\New folder\ST0126\bin\Debug\net6.0-windows\ST0126.pdb
+C:\Users\nixsu\Downloads\New folder\ST0126\obj\Debug\net6.0-windows\ST0126.dll
+C:\Users\nixsu\Downloads\New folder\ST0126\obj\Debug\net6.0-windows\refint\ST0126.dll
+C:\Users\nixsu\Downloads\New folder\ST0126\obj\Debug\net6.0-windows\ST0126.pdb
+C:\Users\nixsu\Downloads\New folder\ST0126\obj\Debug\net6.0-windows\ST0126.genruntimeconfig.cache
+C:\Users\nixsu\Downloads\New folder\ST0126\obj\Debug\net6.0-windows\ref\ST0126.dll
