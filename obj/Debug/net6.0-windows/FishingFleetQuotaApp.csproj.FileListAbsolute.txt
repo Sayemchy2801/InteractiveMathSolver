@@ -1,0 +1,15 @@
+D:\office\paperkraft\seyem\FishingFleetQuotaApp\bin\Debug\net6.0-windows\FishingFleetQuotaApp.exe
+D:\office\paperkraft\seyem\FishingFleetQuotaApp\bin\Debug\net6.0-windows\FishingFleetQuotaApp.deps.json
+D:\office\paperkraft\seyem\FishingFleetQuotaApp\bin\Debug\net6.0-windows\FishingFleetQuotaApp.runtimeconfig.json
+D:\office\paperkraft\seyem\FishingFleetQuotaApp\bin\Debug\net6.0-windows\FishingFleetQuotaApp.dll
+D:\office\paperkraft\seyem\FishingFleetQuotaApp\bin\Debug\net6.0-windows\FishingFleetQuotaApp.pdb
+D:\office\paperkraft\seyem\FishingFleetQuotaApp\obj\Debug\net6.0-windows\FishingFleetQuotaApp.csproj.AssemblyReference.cache
+D:\office\paperkraft\seyem\FishingFleetQuotaApp\obj\Debug\net6.0-windows\FishingFleetQuotaApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\office\paperkraft\seyem\FishingFleetQuotaApp\obj\Debug\net6.0-windows\FishingFleetQuotaApp.AssemblyInfoInputs.cache
+D:\office\paperkraft\seyem\FishingFleetQuotaApp\obj\Debug\net6.0-windows\FishingFleetQuotaApp.AssemblyInfo.cs
+D:\office\paperkraft\seyem\FishingFleetQuotaApp\obj\Debug\net6.0-windows\FishingFleetQuotaApp.csproj.CoreCompileInputs.cache
+D:\office\paperkraft\seyem\FishingFleetQuotaApp\obj\Debug\net6.0-windows\FishingFleetQuotaApp.dll
+D:\office\paperkraft\seyem\FishingFleetQuotaApp\obj\Debug\net6.0-windows\refint\FishingFleetQuotaApp.dll
+D:\office\paperkraft\seyem\FishingFleetQuotaApp\obj\Debug\net6.0-windows\FishingFleetQuotaApp.pdb
+D:\office\paperkraft\seyem\FishingFleetQuotaApp\obj\Debug\net6.0-windows\FishingFleetQuotaApp.genruntimeconfig.cache
+D:\office\paperkraft\seyem\FishingFleetQuotaApp\obj\Debug\net6.0-windows\ref\FishingFleetQuotaApp.dll

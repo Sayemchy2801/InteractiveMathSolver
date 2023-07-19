@@ -1,7 +1,7 @@
 using System;
 using System.Windows.Forms;
 
-namespace InteractiveMathSolver
+namespace FishingFleetQuotaApp
 {
     static class Program
     {
@@ -10,7 +10,7 @@ namespace InteractiveMathSolver
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new MainForm());
         }
     }
 }

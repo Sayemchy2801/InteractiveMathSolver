@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nixsu\\Downloads\\New folder\\ST0126\\ST0126.csproj",
-      "projectName": "ST0126",
-      "projectPath": "C:\\Users\\nixsu\\Downloads\\New folder\\ST0126\\ST0126.csproj",
+      "projectUniqueName": "D:\\office\\paperkraft\\seyem\\FishingFleetQuotaApp\\FishingFleetQuotaApp.csproj",
+      "projectName": "FishingFleetQuotaApp",
+      "projectPath": "D:\\office\\paperkraft\\seyem\\FishingFleetQuotaApp\\FishingFleetQuotaApp.csproj",
       "packagesPath": "C:\\Users\\nixsu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nixsu\\Downloads\\New folder\\ST0126\\obj\\",
+      "outputPath": "D:\\office\\paperkraft\\seyem\\FishingFleetQuotaApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nixsu\\AppData\\Roaming\\NuGet\\NuGet.Config",
