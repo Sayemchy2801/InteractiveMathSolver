@@ -2,7 +2,7 @@
 
 Interactive Math Solver is a Windows Forms application that provides tools for solving various mathematical problems, including finding the greatest common divisor (GCD), least common multiple (LCM), solving linear equations, solving quadratic equations, finding determinants, and solving linear equations using Cramer's Rule.
 
-![Interactive Math Solver Screenshot](screenshot.png)
+![Interactive Math Solver Screenshot](main.png)
 
 ## Features
 
